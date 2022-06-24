@@ -3,10 +3,9 @@
 
 1. Tres fuentes de información con 2 métodos diferentes
 
-- CSV de Kaggle    https://www.kaggle.com/datasets/programmerrdai/tesla-stocks-where-is-my-cyber-truck
-Tesla, Inc. is an American automotive and clean energy company based in Austin, Texas. Tesla designs and manufactures electric vehicles, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services. Wikipedia
 
-
+-CSV de NASDAQ (Tesla Stock price) --> https://www.nasdaq.com/es/market-activity/stocks/tsla/historical
+- CSV de Kaggle (All Elon Musk Tweets)  --> https://www.kaggle.com/datasets/neelgajare/all-elon-musk-tweets-2022-updated
 
 
 
