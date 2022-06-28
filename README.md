@@ -49,17 +49,5 @@ Previous to launch queries, the cleaned data needs to be imported ino the create
 
 ## Queries.
 
-In order to taste the databse, final step has been to launch queries:
-### Query nº1: 
-
-### Query nº2 : 
-
-### Query nº3 : 
-
-### Query nº4 : 
-
-### Query nº5 : 
-
-### Query nº6 : 
 
 End of Project 3!!
