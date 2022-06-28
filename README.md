@@ -8,7 +8,7 @@ This project entails:
 
 1. **Extracting data from three different sources using two different extraction methods.** 
 
-1. **Cleaning the datasets and transform them* 
+1. **Cleaning the datasets and transform them**
 
 1. **Create the database, upload the cleaned data**
 
