@@ -1,5 +1,5 @@
 # Project3_DA_Ironhack
-![img](https://www.google.com/search?q=elon+musk+tesla+price+tweet&tbm=isch&ved=2ahUKEwiztpXaxM_4AhVK8BoKHZ8xBXwQ2-cCegQIABAA&oq=tesla+price+tw&gs_lcp=CgNpbWcQARgAMgYIABAeEAU6BAgjECc6BwgAELEDEEM6BAgAEEM6CAgAEIAEELEDOgoIABCxAxCDARBDOgUIABCABDoECAAQAzoECAAQHjoECAAQEzoICAAQHhAFEBM6CAgAEB4QCBATULIGWOYbYNgvaAFwAHgDgAGaB4gB4BiSAQgxMS41LTEuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=DqK6YrP3DMrga5_jlOAH&bih=653&biw=1429#imgrc=IBgPj4h5SvbsGM)
+![img](https://github.com/adominguez033/Project3_DA_Ironhack/blob/main/Images/tweetElonMusk.png?raw=true)
 
 ## Introduction
 
@@ -49,17 +49,5 @@ Previous to launch queries, the cleaned data needs to be imported ino the create
 
 ## Queries.
 
-In order to taste the databse, final step has been to launch queries:
-### Query nº1: 
-
-### Query nº2 : 
-
-### Query nº3 : 
-
-### Query nº4 : 
-
-### Query nº5 : 
-
-### Query nº6 : 
 
 End of Project 3!!
